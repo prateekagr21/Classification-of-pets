@@ -1,1 +1,1 @@
-# Classification-of-pets
+# Classification of pets using Convolution Neural Networks!
