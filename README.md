@@ -41,8 +41,8 @@ Saved the model using Tensorflow's Load_model.
 
 # Now, for the Prediction part :
 - Read an image from the test dataset
-- And predicted it using the value of Array,
-- In which the classification was distinguished using the positive and negative value of the resulted array.
+- And predicted it using the value of Array.
+- And the classification was distinguished using the positive and negative value of the resulted array.
 
 ## And did the prediction again, 
 ## _Model did right for the both time and hence, it works <br> And can be used for further classification regarding dog-cat images._
