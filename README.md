@@ -26,7 +26,7 @@
 - Since, it is a binary classification, so i used Linear SVM.
 
 ### Initialized the Model <br> and Trained it.
-- by training for 20 epoches.
+- by training for 20 epoches.!!
 
 
 ## Plotted the Prediction.
